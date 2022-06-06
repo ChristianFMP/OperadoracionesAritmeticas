@@ -16,5 +16,4 @@ def MenuOpciones(x, y):
 
 a = int(input("ingrese su primer numero: "))
 b = int(input("ingrese su segundo numero: "))
-print("Los nuemros que ingresó son: ", a, "y", b))
 MenuOpciones(a, b)
